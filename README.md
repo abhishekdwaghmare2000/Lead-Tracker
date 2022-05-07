@@ -16,9 +16,6 @@ The most common problems that people face and Lead tracker helps to solve them.
 - You can also save current sales data or information through web url specific to the customer in our chrome extension.
 - You can delte the leads that you saved.
 
-### Link
-Solution - Lead tracker.
-
 ### Built with
 - Semantic HTML5 markup.
 - CSS custome properties.
